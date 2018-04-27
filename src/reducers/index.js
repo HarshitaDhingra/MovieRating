@@ -8,7 +8,7 @@ const rootReducer = combineReducers({
   fuelSavings,
   routing: routerReducer,
   reactTrainingStore: ReactTrainingHomeReducer,
-  movieStore:MovieRatingReducer,
+  movieStore: MovieRatingReducer,
 });
 
 export default rootReducer;

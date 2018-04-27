@@ -1,11 +1,12 @@
 
 body{
-  background-color: #CFD8DC ;
+  background-color: #BCBCD2 ;
 }
 .unorderedList{
+  font-family: inherit;
   list-style-type: none;
   text-align:center;
-  background-color: #311B92;
+  background-color: #7272A1;
   margin: 8%;
   padding: 2%;
 }
@@ -14,7 +15,9 @@ margin:0px;
 padding: 0px;
 }
 h1{
-  color: #000;
+  color: #090934;
+  font-family: serif;
+  font-style: bold;
   text-align: center;
 }
 .rating_value{

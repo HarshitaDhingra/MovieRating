@@ -1,6 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import { Switch, NavLink, Route } from 'react-router-dom';
+
 import HomePage from './HomePage';
 import ReactTrainingHome from './ReactTrainingHome';
 import FuelSavingsPage from './containers/FuelSavingsPage';
